@@ -14,6 +14,7 @@ public class Main {
         System.out.println(answer.toString());//Hello!
         example[0] = 74;
         System.out.println(answer.toString());//Hello!
+        System.out.println();
 
     }
 
